@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dit-dah</string>
+    <string name="aboutMenu">About</string>
+    <string name="inputText">Enter plain text:</string>
+    <string name="bt_convert">Convert</string>
+    <string name="outputText">Morse code:</string>
+    <string name="clear">Clear</string>
+    <string name="copy">Copy</string>
+    <string name="swap">swap_bt</string>
+</resources>
