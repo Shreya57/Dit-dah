@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        final MediaPlayer dit_sound = MediaPlayer.create(this, R.raw.dit);
+        final MediaPlayer dit_sound = MediaPlayer.create(this, R.raw.click);
 
         data = findViewById(R.id.input_text);
         res = findViewById(R.id.output_text);
